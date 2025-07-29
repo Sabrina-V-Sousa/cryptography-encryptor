@@ -1,5 +1,4 @@
 package cryptography_classes; 
-//* to compile classes in package:
 // javac -d . Cryptography.java 
 
 public abstract class Cryptography {

@@ -1,5 +1,4 @@
 package cryptography_classes; 
-//* to compile classes in package:
 // javac -d . Caesar.java 
 
 public class Caesar extends Cryptography {
