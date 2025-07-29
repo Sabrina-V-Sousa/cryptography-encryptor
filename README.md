@@ -10,7 +10,7 @@ This project is a java application that can encrypt and decrypt a user's inputte
 ### Assets
 
 #### Images
-*blue-matrix.jpg*
-name: "Matrix style binary code digital falling numbers blue background"
-creator: starline
-website: freepik.com
+*blue-matrix.jpg*  
+name: "Matrix style binary code digital falling numbers blue background"  
+creator: starline  
+website: freepik.com  
